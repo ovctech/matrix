@@ -4,6 +4,14 @@
 ![GitHub top language](https://img.shields.io/github/languages/top/ovctech/matrix)
 ![GitHub issues](https://img.shields.io/github/issues/ovctech/matrix)
 
+
+# Table of Contents
+
+- [Introduction](#introduction)
+- [How to run](#how-to-run)
+- [Under hood](#under-hood)
+- [Realized functions](#realized-functions)
+
 # Introduction
 
 
